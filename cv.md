@@ -4,5 +4,5 @@
 4. Java, git, gerrit, SQL, Jenkins
 5. final project in EPAM outer trainig: https://gitlab.com/Tamerlan084/final-project
 6. Work expirience as functional tester during 5 month, EPAM's outer trainig, EPAM's Java lab.
-7. Tomsk polytechnic university, Bachalor and Master of electrical engeneering
+7. Tomsk polytechnic university, Bachalor and Master of electrical engeneering. I'm taking part in EPAM's java lab.
 8. I'm learning english during all my life. And I've past universityice exam according FCE and I have B2.2 level.
